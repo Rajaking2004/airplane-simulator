@@ -5,5 +5,5 @@ lightgbm
 networkx
 ortools
 sentence-transformers
-streamlit
 plotly
+streamlit
