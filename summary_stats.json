@@ -1,0 +1,39 @@
+{
+  "total_flights": 1000,
+  "avg_departure_delay": 8.123039437927819,
+  "avg_arrival_delay": 8.06026753286589,
+  "on_time_performance": 81.2,
+  "airlines": [
+    "I5",
+    "6E",
+    "AI",
+    "9W",
+    "G8",
+    "SG",
+    "S2",
+    "UK"
+  ],
+  "destinations": [
+    "IXC",
+    "BLR",
+    "MAA",
+    "GOI",
+    "DEL",
+    "CCU",
+    "COK",
+    "HYD",
+    "BOM",
+    "JAI",
+    "PNQ",
+    "AMD"
+  ],
+  "aircraft_types": [
+    "CRJ200",
+    "B777",
+    "A320",
+    "ATR72",
+    "A330",
+    "A321",
+    "B737"
+  ]
+}

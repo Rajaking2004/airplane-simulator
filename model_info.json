@@ -1,0 +1,22 @@
+{
+  "model_trained": true,
+  "features": [
+    "dep_delay",
+    "airline",
+    "to",
+    "aircraft_type",
+    "flight_time_minutes",
+    "scheduled_hour",
+    "day_of_week",
+    "hourly_flight_count"
+  ],
+  "models_available": [
+    "random_forest",
+    "lightgbm"
+  ],
+  "total_flights": 1000,
+  "lightgbm_available": true,
+  "networkx_available": true,
+  "ortools_available": true,
+  "sentence_transformers_available": true
+}
